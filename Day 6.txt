@@ -1,0 +1,36 @@
+echo "# DigialPathsala_Basics" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/AmritReule123/DigialPathsala_Basics.git
+git push -u origin main
+
+
+
+
+git remote add origin https://github.com/AmritReule123/DigialPathsala_Basics.git
+git branch -M main
+git push -u origin main
+
+
+
+
+
+////////
+…or create a new repository on the command line
+
+
+echo "# 105F_Notes" >> README.md
+git init
+git add . 
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/AmritReule123/105F_Notes.git
+git push -u origin main
+
+\\\***SECOND TIME ***\\\
+
+git add . 
+git commit -m "first commit"
+git push -u origin main
